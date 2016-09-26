@@ -94,7 +94,7 @@ broadcast method는 sleep 상태의 TCB를 모두 깨우는 method이다. read�
 </pre>
 # 결론
 
-![ScreenShot]()
+![ScreenShot](https://github.com/fisache/os-condition-variable/blob/master/os.png)
 
 <pre>
 실행 결과 기록된 표를 보면 가장 먼저 실행 된 프로세스는 4085의 PID를 가진 Reader이며 
